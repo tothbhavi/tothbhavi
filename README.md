@@ -50,7 +50,18 @@ A platform connecting retail investors with verified Indian farmers.
 
 *"I don't wait for the right year. I build now."*
 
-<!--
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tothbhavi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tothbhavi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tothbhavi&theme=tokyonight&hide_border=true" width="60%" />
+</p><!--
 **tothbhavi/tothbhavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
