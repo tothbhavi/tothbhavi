@@ -41,6 +41,24 @@ A platform connecting retail investors with verified Indian farmers.
 
 ---
 
+## 📊 GitHub at a glance
+
+<p>
+  <img src="https://img.shields.io/github/followers/tothbhavi?label=Followers&style=flat-square&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/tothbhavi/neuro-controlled-car?label=Neuro%20Car%20Stars&style=flat-square&logo=github" alt="Neuro-controlled car stars" />
+  <img src="https://img.shields.io/github/last-commit/tothbhavi/atm_project?label=ATM%20Project%20Updated&style=flat-square&logo=github" alt="ATM project last commit" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/HDL-Verilog%20%7C%20SystemVerilog- blue?style=flat-square" alt="HDL: Verilog and SystemVerilog" />
+  <img src="https://img.shields.io/badge/Embedded-C%20%2F%20C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="Embedded C and C++" />
+  <img src="https://img.shields.io/badge/Tools-Git%20%7C%20Python%20%7C%20Arduino-3776AB?style=flat-square" alt="Git, Python and Arduino" />
+</p>
+
+*Live repository badges are provided by Shields.io. GitHub's own profile page remains the source of truth for your contribution graph and streak.*
+
+---
+
 ## 📫 Let's Connect
 - 📧 tpaluvad@student.gitam.edu
 - 📍 Hyderabad, India
@@ -49,29 +67,3 @@ A platform connecting retail investors with verified Indian farmers.
 ---
 
 *"I don't wait for the right year. I build now."*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tothbhavi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tothbhavi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tothbhavi&theme=tokyonight&hide_border=true" width="60%" />
-</p><!--
-**tothbhavi/tothbhavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
