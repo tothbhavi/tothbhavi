@@ -41,6 +41,12 @@ A platform connecting retail investors with verified Indian farmers.
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="profile/streak.svg" alt="GitHub contribution streak showing current streak, longest streak, and total contributions" />
+</p>
+
 ## 📊 GitHub at a glance
 
 <p>
