@@ -50,7 +50,7 @@ A platform connecting retail investors with verified Indian farmers.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/HDL-Verilog%20%7C%20SystemVerilog- blue?style=flat-square" alt="HDL: Verilog and SystemVerilog" />
+  <img src="https://img.shields.io/badge/HDL-Verilog%20%7C%20SystemVerilog-00599C?style=flat-square" alt="HDL: Verilog and SystemVerilog" />
   <img src="https://img.shields.io/badge/Embedded-C%20%2F%20C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="Embedded C and C++" />
   <img src="https://img.shields.io/badge/Tools-Git%20%7C%20Python%20%7C%20Arduino-3776AB?style=flat-square" alt="Git, Python and Arduino" />
 </p>
